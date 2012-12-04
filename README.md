@@ -1,4 +1,4 @@
-flightsim2012
+Flight Simulation 2012
 =============
 
-FlightSimulation2012
+Tasks for the Flight Simulation course at University of Wroclaw.
